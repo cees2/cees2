@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Damian and I'm a student of applied computer science at Cracow University of Science. I'm looking for an internship as a front-end developer. I've created my portfolio web application which you can see below. This application is constantly developing by myself. In the future I would like to become a fullstack developer, so I am currently learning a backend technology: NodeJS. Feel free to explore my repos and contact me anytime. 
+My name is Damian and I'm a student of applied computer science at Cracow University of Technology. I'm looking for an internship as a front-end developer. I've created my portfolio web application which you can see below. This application is constantly developing by myself. In the future I would like to become a fullstack developer, so I am currently learning a backend technology: NodeJS. Feel free to explore my repos and contact me anytime. 
 
 <!--
 **cees2/cees2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
